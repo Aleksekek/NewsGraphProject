@@ -1,11 +1,11 @@
-aiohttp==3.13.5
+aiohttp==3.14.3
 curl-cffi==0.15.0
-APScheduler==3.11.2
+APScheduler==3.11.3
 asyncpg==0.31.0
-beautifulsoup4==4.14.3
+beautifulsoup4==4.15.0
 dotenv==0.9.9
-feedparser==6.0.12
-pydantic==2.13.3
-pydantic-settings==2.14.0
+feedparser==6.0.14
+pydantic==2.13.4
+pydantic-settings==2.14.2
 PyYAML==6.0.3
 tpulse==0.1.9
